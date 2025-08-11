@@ -1,11 +1,11 @@
-<h1 align="center">📚 BookWorm – Full‑Stack React Native App 🚀</h1>
+## BookWorm - Full-Stack React Native App
+# Project Overview
 
+BookWorm is a complete social book recommendation platform that combines a robust Node.js backend with a modern React Native frontend. It's designed as a mobile-first application where users can share, discover, and manage book recommendations in a social feed format.
 
 ##  What we Build
 
-
- Works on **real devices & simulators** (Android / iOS)  
-
+Works on **real devices & simulators** (Android / iOS)  
 
 
 ---
@@ -70,10 +70,6 @@ npx expo
 ```
 
 
-## BookWorm - Full-Stack React Native App
-# Project Overview
-
-BookWorm is a complete social book recommendation platform that combines a robust Node.js backend with a modern React Native frontend. It's designed as a mobile-first application where users can share, discover, and manage book recommendations in a social feed format.
 
 ## Architecture & Technology Stack
 # Backend (Node.js/Express)
